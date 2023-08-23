@@ -8,5 +8,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="C" alt="Java" width="40" height="40"/>&nbsp;
+  <a href="https://www.codechef.com/users/nagasai_01>CODECHEF</a>
 </div>
-<a href="https://www.codechef.com/users/nagasai_01>CODECHEF</a>
